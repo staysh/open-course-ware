@@ -39,7 +39,7 @@ open-course-ware
 ##### Links
 - Audio Transcription with time stamps
   - [CMUSphinx](https://cmusphinx.github.io)
-  - [Google Cloud](https://cloud.google.com/text-to-speech
+  - [Google Cloud](https://cloud.google.com/text-to-speech)
 - Video Tools
   -[MLT](https://mltframework.org)
   -[Shotcut](https://shotcut.com)
