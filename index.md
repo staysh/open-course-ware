@@ -41,6 +41,6 @@ open-course-ware
   - [CMUSphinx](https://cmusphinx.github.io)
   - [Google Cloud](https://cloud.google.com/text-to-speech)
 - Video Tools
-  -[MLT](https://mltframework.org)
-  -[Shotcut](https://shotcut.com)
+  - [MLT](https://mltframework.org)
+  - [Shotcut](https://shotcut.com)
 
