@@ -1,2 +1,2 @@
 # open-course-ware
-Repository of Open Course initiative relaated content
+Repository of Open Course initiative related content
