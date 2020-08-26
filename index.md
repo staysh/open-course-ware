@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Open Source Course Design
 
-You can use the [editor on GitHub](https://github.com/staysh/open-course-ware/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The idea behind this repo is that it will store not only the non-video course content for courses deisgned for the PCC open source course initiative but also prototypes of software tools/approaches and technical documentation on topics like batch creating video content and thinking about open source eductational content in general. In addition to backing up and storing course content it allows that content to be point-and-click broweseable by generating styled pages that are more comfortable to read than plain text. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Structure
+As of now the structure of this repository is imagined as such:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+open-course-ware
+|__Code
+|  |__software-project
+|  |  |__docs
+|  |
+|  |__other project...  
+|
+|__Courses
+|  |__AI&ML
+|  |  |__Overview
+|  |  |__Module-1-Title
+|  |  |  |__Outline/Script
+|  |  |
+|  |  |__Module-2-...
+|  |  
+|  |__Other Courses...
+|
+|__Parking Lot
+   |__links to resources
+   |__unformatted content
+   |__etc
+```
+##### Todo Main-Level
+- [x] create github repository
+- [ ] create code repository and docs
+- [ ] create course repository and docs
+- [ ] test local git repo with google drive shortcuts
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+##### Links
+- Audio Transcription with time stamps
+  - [CMUSphinx](https://cmusphinx.github.io)
+  - [Google Cloud](https://cloud.google.com/text-to-speech
+- Video Tools
+  -[MLT](https://mltframework.org)
+  -[Shotcut](https://shotcut.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/staysh/open-course-ware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
